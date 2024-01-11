@@ -10,7 +10,7 @@ public class DoWhileLoop {
             System.out.print("enter the number ");
             int n = sc.nextInt();
             if(n%10 ==0){
-                System.out.println("that's it");
+                System.out.println("that's it bro");
                 continue;
             }
             System.out.println(n);
